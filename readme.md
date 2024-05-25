@@ -1,3 +1,5 @@
+Turkcell Gençlere Yatırım Geleceğe Yazılım 3.0 Frontend Bootcamp'i kapsaminda geliştirmiş olduğum javascript projesi.
+
 ## development icin:
 ### npm i ile gerekli olan paketleri kurun.
 #### Hem scss'i hem de json-server'i aynı anda ayağa kaldırmak icin "concurrently" adlı paketi kullandım.
