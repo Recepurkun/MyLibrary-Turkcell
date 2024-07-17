@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "sass": "sass --watch scss:css",
-    "json-server": "json-server --watch ../db.json",
+    "json-server": "json-server --watch ./db.json",
     "start": "concurrently \"npm run sass\" \"npm run json-server\""
   },
   "keywords": [],

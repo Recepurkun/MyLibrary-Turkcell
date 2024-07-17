@@ -1,8 +1,10 @@
 let selectedCategory = "";
 let currentSort = "";
 let selectedAuthor = ""
-const baseUrl = "http://localhost:3000/books";
-const secondUrl = "http://localhost:3000/sentence"
+// const baseUrl = "http://localhost:3000/books";
+// const secondUrl = "http://localhost:3000/sentence"
+const baseUrl = "https://my-library-turkcell-server.vercel.app/books";
+const secondUrl = "https://my-library-turkcell-server.vercel.app/sentence"
 const kitapKapakResmi = document.getElementById("kitapKapakResmi");
 const kitapAdi = document.getElementById("kitapAdi");
 const kitapYazari = document.getElementById("kitapYazari");
