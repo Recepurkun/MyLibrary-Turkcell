@@ -8,3 +8,13 @@ Turkcell Gençlere Yatırım Geleceğe Yazılım 3.0 Frontend Bootcamp'i kapsami
 <hr>
 
 #### Sadece json-serveri ayağa kaldırmak icin "npx json-server ../db.json" komutunu kullanabilirsiniz
+
+---
+
+* Canlida vercel kaynakli problemler olabiliyor en iyi deneyim icin **localde** calistirin. 
+* Projeyi ``npm start`` ile ayaga kaldirin.
+* Daha sonra app.js içerisindeki 
+  - `const baseUrl` 
+  - `const secondUrl`
+
+  kisimlarindaki localhost olanlari aktif edin.
